@@ -1,1 +1,1 @@
-Pasta da atividade 2
+Pasta de atividade 2
