@@ -1,0 +1,8 @@
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+editorconfig.editorconfig
+ritwickdey.LiveServer
+christian-kohler.path-intellisense
+eamodio.gitlens
+bradlc.vscode-tailwindcss
+usernamehw.errorlens

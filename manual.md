@@ -12,6 +12,7 @@ Na raiz, o acesso principal publicado pelo GitHub Pages redireciona automaticame
 - `Atividade-2/`: atividade 2 publicada como entrada principal do Pages.
 - `Atividade-3/`: atividade 3.
 - `Atividade-4/`: atividade 4.
+- `Atividade-7/`: atividade 7 com a pesquisa de extensões e configurações de VS Code para desenvolvimento web.
 - `Trabalho-1/`: trabalho 1.
 - `index.html`: página raiz com redirecionamento imediato para `Atividade-2/index.html`.
 - `.github/workflows/pages.yml`: workflow de deploy do GitHub Pages.
@@ -27,5 +28,6 @@ Na raiz, o acesso principal publicado pelo GitHub Pages redireciona automaticame
 ## 4. Regra de manutenção
 
 - mudanças na atividade principal publicada devem preservar ou revisar conscientemente o redirecionamento da raiz;
+- novas pastas de atividades devem ser refletidas na navegação pública do `README.md`;
 - mudanças no fluxo de publicação devem ser refletidas neste `manual.md`;
 - arquivos textuais do repositório devem permanecer em UTF-8 sem BOM.
