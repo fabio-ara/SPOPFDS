@@ -13,6 +13,7 @@ Na raiz, o acesso principal publicado pelo GitHub Pages redireciona automaticame
 - `Atividade-3/`: atividade 3.
 - `Atividade-4/`: atividade 4.
 - `Atividade-7/`: atividade 7 com a pesquisa de extensões e configurações de VS Code para desenvolvimento web.
+- `Atividade-8/`: atividade 8 com o relatório em PDF sobre software livre, baseado na análise do repositório do VS Code.
 - `Trabalho-1/`: trabalho 1.
 - `index.html`: página raiz com redirecionamento imediato para `Atividade-2/index.html`.
 - `.github/workflows/pages.yml`: workflow de deploy do GitHub Pages.

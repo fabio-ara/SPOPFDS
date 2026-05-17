@@ -11,6 +11,7 @@ Este repositório reúne as atividades e trabalhos desenvolvidos ao longo da dis
 - [Atividade 3](./Atividade-3/)
 - [Atividade 4](./Atividade-4/)
 - [Atividade 7](./Atividade-7/)
+- [Atividade 8](./Atividade-8/)
 - [Trabalho 1](./Trabalho-1/)
 
 ## Observação
